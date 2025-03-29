@@ -1,0 +1,6 @@
+The original input files were Lena.bmp, sloth.png and th.jpeg.
+All other files were created in (exactly) one of the following commands.
+
+/path/to/rotatedThumbnailCreator Lena.bmp th.jpeg
+/path/to/rotatedThumbnailCreator sloth.png --size 400
+/path/to/rotatedThumbnailCreator th.jpeg --suffix _custom
